@@ -1,1 +1,1 @@
-# id.basyiri.my.id
+# basyiri.my.id/id
