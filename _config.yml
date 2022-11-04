@@ -1,4 +1,4 @@
-title: ABOUT
+title: TENTANG
 url: "http://basyiri.my.id"
 baseurl: "/id"
 
@@ -15,5 +15,5 @@ nav:
    link: "http://id.basyiri.my.id"
  - name: "Resume"
    link: "http://basyiri.my.id/id/resume"
- - name: "Contact"
+ - name: "Kontak"
    link: "http://basyiri.my.id/id/kontak"
