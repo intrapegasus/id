@@ -1,0 +1,19 @@
+title: ABOUT
+url: "http://basyiri.my.id"
+baseurl: "/id"
+
+footer: yes
+footer_url: "http://basyiri.my.id/"
+footer_text: "Azhar Basyiri Hartono"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "Blog"
+   link: "http://id.basyiri.my.id"
+ - name: "Resume"
+   link: "http://basyiri.my.id/id/resume"
+ - name: "Contact"
+   link: "http://basyiri.my.id/id/kontak"
