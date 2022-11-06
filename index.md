@@ -8,8 +8,6 @@ layout: default
 
 Saya Azhar Basyiri Hartono (Azhar) lahir di Pemalang, Jawa Tengah, Indonesia pada tanggal 19 April 1999 dan berasal dari keluarga broken home dan miskin, lulusan SMA dan tidak melanjutkan ke perguruan tinggi tetapi saya dapat membuktikan bahwa pendidikan rendah adalah bukan penghalang dalam melakukan sesuatu yang baik dengan memulai secara perlahan tapi pasti, tidak perlu ragu dalam melakukan sesuatu karena saya telah mengalami kegagalan berkali-kali tapi saya bisa bangkit dan menjadi hebat, saya tidak menyerah.
 
-Ini adalah website pribadi saya dan tentunya saya telah belajar sesuatu tentang website sejak saya masih SMP, saya ingat waktu itu sepertinya tidak penting dan saya diremehkan oleh mereka, sekarang saya sudah menjadi orang penting seperti situs web ini, Jadi apa yang dilakukan dari 10 tahun yang lalu menentukan akan menjadi apa seseorang dalam 10 tahun ke depan
-
 ## Sekilas Tentang Saya
 
 Saya mempelajari berbagai aspek pelajaran hidup, terkadang saya bahkan tidak perlu menganggap serius sesuatu yang membuat saya sedih, di Internet atau di dunia nyata sama saja. Tahukah kamu nilaiku tidak sebaik teman-temanku tapi nilai bukanlah segalanya, aku menjalani hidup dari bawah dan aku merasakan betapa sulitnya hidup, belajar tidak selalu harus dari sekolah tapi bisa dari mana saja, riset apa saja tersedia dan simpan di otak kemudian jalankan dalam kehidupan sehari-hari maka ilmu akan bermanfaat tidak hanya untuk diri sendiri tetapi untuk orang lain
