@@ -5,9 +5,9 @@ is_contact: true
 
 ## Pengumuman
 
-* [Kebijakan Privasi](http://azhar.basyiri.my.id/p/privasi.html)
-* [Syarat & Ketentuan](http://azhar.basyiri.my.id/p/syarat-dan-ketentuan.html)
-* [Menjawab Pertanyaan Anda](http://basyiri.my.id/id/faq)
+* [Kebijakan Privasi](https://azhar.basyiri.my.id/p/privasi.html)
+* [Syarat & Ketentuan](https://azhar.basyiri.my.id/p/syarat-dan-ketentuan.html)
+* [Menjawab Pertanyaan Anda](https://basyiri.my.id/id/faq)
 
 ## HUB
 
