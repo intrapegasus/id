@@ -3,7 +3,7 @@ url: "http://basyiri.my.id"
 baseurl: "/id"
 
 footer: yes
-footer_url: "http://basyiri.my.id/"
+footer_url: "https://basyiri.my.id/"
 footer_text: "Azhar Basyiri Hartono"
 
 sass:
@@ -12,8 +12,8 @@ sass:
 
 nav:
  - name: "Blog"
-   link: "http://id.basyiri.my.id"
+   link: "https://id.basyiri.my.id"
  - name: "Resume"
-   link: "http://basyiri.my.id/id/resume"
+   link: "https://basyiri.my.id/id/resume"
  - name: "Kontak"
-   link: "http://basyiri.my.id/id/kontak"
+   link: "https://basyiri.my.id/id/kontak"
