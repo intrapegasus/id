@@ -48,8 +48,8 @@ Tahun | Album           | Judul                  | Status
 TasyaNPSR (Non Profit Social Responsibility) adalah kegiatan untuk membantu mereka yang membutuhkan dan tidak menggalang dana masyarakat dalam bentuk apapun, didirikan oleh Tasya ID Media* untuk kegiatan sosial seperti perusahaan dengan Tanggung Jawab Sosial Perusahaan dan telah dihentikan seiring dengan akhir Tasya ID Media**
 
 Tahun      | Pemasukkan   | Pengeluaran                        | Nominal
------------|--------------|------------------------------------|--------------------------
-2017-2020  | Dana Pribadi |====================================|==========================
+-----------|--------------|------------------------------------|-----------------------------
+2017-2020  | Dana Pribadi |====================================|  Est. 300K IDR (19.39 USD)
 2020-2021  |==============| Transportasi                       |  200K IDR (14.00 USD) 
 2020-2021  |==============| Komunikasi                         |  289K IDR (20.22 USD)
 2020-2021  |==============| Makanan & Minuman                  |  612K IDR (42.83 USD) 
