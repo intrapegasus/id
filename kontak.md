@@ -15,7 +15,9 @@ is_contact: true
 
 * Surel 2: [priscilla@basyiri.my.id](mailto:priscilla@basyiri.my.id)
 
-* Telepon: [+62-895-41297-3843](tel:+62-895-41297-3843)
+* Telepon 1: [+62-895-41297-3843](tel:+62-895-41297-3843)
+
+* Telepon 2: [+62-821-2455-0821](tel:+62-821-2455-0821)
 
 ---
 
