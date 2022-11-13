@@ -21,7 +21,7 @@ is_contact: true
 
 ## Alamat Surat
 
-> Bekasi Utara
+> Prima Harapan Regency L.12/35
 >
 > Bekasi, Jawa Barat, 17123
 >
