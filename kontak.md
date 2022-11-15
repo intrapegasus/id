@@ -33,7 +33,7 @@ is_contact: true
 
 ## Arsip (2019 - 2021)
 
-* [Halaman Utama - TIM](https://archive.org/details/@tasya_id_media)
+* [Halaman Utama - TIM](https://basyiri.my.id/tasya)
 * [Instagram - TIM](https://instagram.com/azharbasyirihvrtono)
 
 ## Sosial
