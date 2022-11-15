@@ -7,6 +7,7 @@ is_contact: true
 
 * [Kebijakan Privasi](https://azhar.basyiri.my.id/p/privasi.html)
 * [Syarat & Ketentuan](https://azhar.basyiri.my.id/p/syarat-dan-ketentuan.html)
+* [Sangat Rahasia](https://basyiri.my.id/S3CR3T)
 * [Menjawab Pertanyaan Anda](https://basyiri.my.id/id/faq)
 
 ## HUB
