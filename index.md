@@ -44,6 +44,36 @@ Tahun | Album           | Judul                  | Status
 * **Diluar dari Tasya ID Media
 
 
+## Internet Berdaulat
+
+Proyek tertutup TIMSI yang berubah menjadi Tembok Api Azhar untuk mengamankan serangan siber dengan membatasi akses keluar dan masuk lalu lintas internet, hanya berlaku pada jaringan lokal.
+
+Layanan   | Status   | Jangka Waktu |
+--------- |----------|--------------|
+Facebook  | Diblokir | Sementara    |
+Instagram | Diblokir | Sementara    |
+WhatsApp  | Diblokir | Sementara    |
+Messenger | Diblokir | Sementara    |
+Twitter   | Diblokir | Sementara    |
+Snapchat  | Diblokir | Permanen     |   
+Tiktok    | Diblokir | Permanen     |
+G-Search  | Diblokir | Sementara    |
+G-Drive   | Diblokir | Sementara    |
+G-Maps    | Diblokir | Sementara    | 
+YouTube   | Diblokir | Sementara    |
+Telegram  | Diblokir | Permanen     |
+Signal    | Diblokir | Permanen     |
+Threema   | Diblokir | Permanen     |
+Twitch    | Diblokir | Permanen     |
+Reddit    | Diblokir | Permanen     |
+Discord   | Diblokir | Permanen     |
+Spotify   | Diblokir | Permanen     |
+Joox      | Diblokir | Permanen     |
+Netflix   | Diblokir | Permanen     |
+Wikipedia | Diblokir | Sementara    |
+Line      | Diblokir | Permanen     |
+
+
 ## TasyaNPSR (2020-2021)
 TasyaNPSR (Non Profit Social Responsibility) adalah kegiatan untuk membantu mereka yang membutuhkan dan tidak menggalang dana masyarakat dalam bentuk apapun, didirikan oleh Tasya ID Media* untuk kegiatan sosial seperti perusahaan dengan Tanggung Jawab Sosial Perusahaan dan telah dihentikan seiring dengan akhir Tasya ID Media**
 
