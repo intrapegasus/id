@@ -46,7 +46,7 @@ Tahun | Album           | Judul                  | Status
 
 ## Internet Berdaulat
 
-Proyek tertutup TIMSI yang berubah menjadi Tembok Api Azhar untuk mengamankan serangan siber dengan membatasi akses keluar dan masuk lalu lintas internet, hanya berlaku pada jaringan lokal Azhar, pembatasan berlaku sementara untuk tamu yang ingin mengakses layanan tersebut sedangkan permanen tidak dapat dibuka dan silakan gunakan jaringan seluler pribadi masing-masing, seluruh aktifitas yang melalui jaringan lokal Azhar akan dipantau sekalipun terenkripsi akan didekripsi secara otomatis untuk alasan keamanan.
+Proyek tertutup TIMIB yang berubah menjadi Tembok Api Azhar untuk mengamankan serangan siber dengan membatasi akses keluar dan masuk lalu lintas internet, hanya berlaku pada jaringan lokal Azhar, pembatasan berlaku sementara untuk tamu yang ingin mengakses layanan tersebut sedangkan permanen tidak dapat dibuka dan silakan gunakan jaringan seluler pribadi masing-masing, seluruh aktifitas yang melalui jaringan lokal Azhar akan dipantau sekalipun terenkripsi akan didekripsi secara otomatis untuk alasan keamanan.
 
 Layanan   | Status   | Jangka Waktu |
 --------- |----------|--------------|
