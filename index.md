@@ -96,7 +96,7 @@ Tahun  | Pengeluaran                        | Nominal
 <br>2019.9.28 - 2021.9.28
 <br>Uni Eropa
 
-## Akhir Kehidupan
+## Akhir Kehidupan (EOL-112222)
 
 Setelah sekian lama kurang lebih sekitar 5 tahun konsisten dalam dunia sumber terbuka sejak tahun 2017 dan sebenarnya saya sudah ingin mengakhiri sejak awal tahun 2022 namun saya masih berbaik hati untuk memperpanjangnya hingga beberapa bulan kedepan sampai pada akhirnya dengan berat hati pada 22 November 2022 saya memutuskan untuk menghentikan secara permanen karena kurangnya apresiasi dari banyak pihak dan pembaruan kedepan tentang diri saya baik dalam sosial media maupun beberapa dari halaman situs web ini akan dihentikan, kedepannya saya tidak lagi berkontribusi dalam proyek sumber terbuka apapun dan seluruhnya menjadi proyek sumber tertutup
 
