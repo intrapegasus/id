@@ -37,7 +37,7 @@ is_contact: true
 * [Halaman Utama - TIM](https://basyiri.my.id/tasya)
 * [Instagram - TIM](https://instagram.com/azharbasyirihvrtono)
 
-## Sosial
+## Sosial (EOL-112222)
 
 1. [Facebook](https://facebook.com/intrapegasus)
 2. [Instagram](https://instagram.com/intrapegasus)
@@ -49,7 +49,7 @@ is_contact: true
 8. [Quora](https://id.quora.com/profile/Intrapegasus)
 9. [Anchor](https://anchor.fm/intrapegasus)
 
-## Donasi
+## Donasi (EOL-112222)
 1. [Monero](xmr.txt)
 2. [LiberaPay](https://liberapay.com/intrapegasus)
 3. [Saweria](https://saweria.co/intrapegasus)
