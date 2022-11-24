@@ -100,6 +100,11 @@ Tahun  | Pengeluaran                        | Nominal
 
 Setelah sekian lama kurang lebih sekitar 5 tahun konsisten dalam dunia sumber terbuka sejak tahun 2017 dan sebenarnya saya sudah ingin mengakhiri sejak awal tahun 2022 namun saya masih berbaik hati untuk memperpanjangnya hingga beberapa bulan kedepan sampai pada akhirnya dengan berat hati pada 22 November 2022 saya memutuskan untuk menghentikan secara permanen karena kurangnya apresiasi dari banyak pihak dan pembaruan kedepan tentang diri saya baik dalam sosial media maupun beberapa dari halaman situs web ini akan dihentikan, kedepannya saya tidak lagi berkontribusi dalam proyek sumber terbuka apapun dan seluruhnya menjadi proyek sumber tertutup
 
+## Sumber Tertutup (PR060606NW)
+
+Saya menerapkan informasi sumber tertutup setelah menemukan konsepnya, siapapun yang ingin mendapatkan informasi tentang saya serupa dengan versi gratisnya yang kualitasnya mungkin saja bisa sama atau bisa lebih hancur ataupun lebih baik tergantung dari bagaimana saya ingin membuat kontennya maka harus berbayar dan tidak gratis, gratis apabila seseorang merupakan bagian dari keluarga TIM yaitu pihak yang berkontribusi baik secara langsung maupun tidak langsung, saya akan mengenakan tarif mahal untuk perorangan dan 10 kali lebih mahal untuk korporasi
+
+
 ## Terima Kasih Khusus
 
 * Tuhan
