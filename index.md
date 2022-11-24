@@ -104,7 +104,6 @@ Setelah sekian lama kurang lebih sekitar 5 tahun konsisten dalam dunia sumber te
 
 Saya menerapkan informasi sumber tertutup setelah menemukan konsepnya, siapapun yang ingin mendapatkan informasi tentang saya serupa dengan versi gratisnya yang kualitasnya mungkin saja bisa sama atau bisa lebih hancur ataupun lebih baik tergantung dari bagaimana saya ingin membuat kontennya maka harus berbayar dan tidak gratis, gratis apabila seseorang merupakan bagian dari keluarga TIM yaitu pihak yang berkontribusi baik secara langsung maupun tidak langsung, saya akan mengenakan tarif mahal untuk perorangan dan 10 kali lebih mahal untuk korporasi
 
-
 .            | Konten Terkini | Penelitian Terkini | Resume Terkini
 -------------|----------------|--------------------|-----------------
 EOL-112222*  | Gratis         | Gratis             | Gratis
