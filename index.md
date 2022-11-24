@@ -105,11 +105,14 @@ Setelah sekian lama kurang lebih sekitar 5 tahun konsisten dalam dunia sumber te
 Saya menerapkan informasi sumber tertutup setelah menemukan konsepnya, siapapun yang ingin mendapatkan informasi tentang saya serupa dengan versi gratisnya yang kualitasnya mungkin saja bisa sama atau bisa lebih hancur ataupun lebih baik tergantung dari bagaimana saya ingin membuat kontennya maka harus berbayar dan tidak gratis, gratis apabila seseorang merupakan bagian dari keluarga TIM yaitu pihak yang berkontribusi baik secara langsung maupun tidak langsung, saya akan mengenakan tarif mahal untuk perorangan dan 10 kali lebih mahal untuk korporasi
 
 
-.          | Konten Terkini | Penelitian Terkini | Resume Terkini
------------|----------------|--------------------|-----------------
-EOL-112222 | Gratis         | Gratis             | Gratis
-PR060606NW | Berbayar       | Berbayar           | Berbayar
+.            | Konten Terkini | Penelitian Terkini | Resume Terkini
+-------------|----------------|--------------------|-----------------
+EOL-112222*  | Gratis         | Gratis             | Gratis
+PR060606NW** | Berbayar       | Berbayar           | Berbayar
 
+* *Layanan gratis tidak tersedia lagi dan hanya sebagai contoh dan portofolio bagaimana seseorang menilai saya
+
+* **Layanan berbayar hanya untuk perorangan maupun badan atau suatu entitas tertentu, tidak melayani apabila suatu entitas telah dilakukan penelitian sebelumnya pada layanan gratis dan jika ingin dilayani maka harus membayar terlebih dahulu terhadap apa yang dikerjakan pada penelitian sebelumnya, saya dapat menolak suatu entitas yang tidak memiliki etikat baik mengacu pada layanan gratis tanpa terkecuali, perorangan yang mewakili suatu entitas akan dinilai sebagai pihak korporat, perorangan adalah subjek yang tidak mengikat pada kepentingan korporat manapun.
 
 ## Terima Kasih Khusus
 
