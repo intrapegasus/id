@@ -32,22 +32,24 @@ is_contact: true
 
 ---
 
+## Sosial (PR060606NW)
+
+1. [Facebook](https://facebook.com/intrapegasus)
+2. [Instagram](https://instagram.com/intrapegasus)
+3. [Twitter](https://twitter.com/intrapegasus)
+
 ## Arsip (2019 - 2021)
 
 * [Halaman Utama - TIM](https://basyiri.my.id/tasya)
 * [Instagram - TIM](https://instagram.com/azharbasyirihvrtono)
 
 ## Sosial (EOL-112222)
-
-1. [Facebook](https://facebook.com/intrapegasus)
-2. [Instagram](https://instagram.com/intrapegasus)
-3. [Twitter](https://twitter.com/intrapegasus)
-4. [Pixelfed](https://pixelfed.de/intrapegasus)
-5. [Mastodon](https://masthead.social/@intrapegasus)
-6. [GitHub](https://github.com/intrapegasus)
-7. [Weblate](https://hosted.weblate.org/user/intrapegasus)
-8. [Quora](https://id.quora.com/profile/Intrapegasus)
-9. [Anchor](https://anchor.fm/intrapegasus)
+1. [Pixelfed](https://pixelfed.de/intrapegasus)
+2. [Mastodon](https://masthead.social/@intrapegasus)
+3. [GitHub](https://github.com/intrapegasus)
+4. [Weblate](https://hosted.weblate.org/user/intrapegasus)
+5. [Quora](https://id.quora.com/profile/Intrapegasus)
+6. [Anchor](https://anchor.fm/intrapegasus)
 
 ## Donasi (EOL-112222)
 1. [Monero](xmr.txt)
