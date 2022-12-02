@@ -14,7 +14,7 @@ is_contact: true
 
 * Surel 1: [azhar@basyiri.my.id](mailto:azhar@basyiri.my.id)
 
-* Surel 2: [priscilla@basyiri.my.id](mailto:priscilla@basyiri.my.id)
+* Surel 2: [tasya@basyiri.my.id](mailto:tasya@basyiri.my.id)
 
 * Telepon 1: [+62-895-41297-3843](tel:+62-895-41297-3843)
 
