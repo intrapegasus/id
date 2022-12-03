@@ -37,6 +37,7 @@ is_contact: true
 1. [Facebook](https://facebook.com/intrapegasus)
 2. [Instagram](https://instagram.com/intrapegasus)
 3. [Twitter](https://twitter.com/intrapegasus)
+4. [YouTube](https://www.youtube.com/@intrapegasus/videos)
 
 ## Arsip (2019 - 2021)
 
