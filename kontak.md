@@ -38,6 +38,7 @@ is_contact: true
 2. [Instagram](https://instagram.com/intrapegasus)
 3. [Twitter](https://twitter.com/intrapegasus)
 4. [YouTube](https://www.youtube.com/@intrapegasus/videos)
+5. [Resolusi (LTS)](resolusi)
 
 ## Arsip (2019 - 2021)
 
