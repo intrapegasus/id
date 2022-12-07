@@ -1,6 +1,6 @@
 ## Resolusi (Tahap Penyelesaian)
 
-PR060606NW dibuat dengan sangat cepat dalam kurun waktu kurang dari 1 bulan dan sudah memenuhi ekspektasi yang cukup memuaskan dengan infrastruktur yang sederhana dan seadanya namun tetap dapat dibuat tanpa harus menggunakan infrastruktur mewah karena keterbatasan bukan penghalang dalam pembuatan karya setelah harus gagal dalam EOL-112222 dengan ini sebagai komitmen maka saya menghadirkan dukungan jangka panjang (LTS) selama 10 tahun dari 2022 sampai 2032 selama anda masih menjadi pelanggan prioritas pada PR060606W dan selama saya masih diberikan umur dalam kehidupan.
+PR060606NW dibuat dengan sangat cepat dalam kurun waktu kurang dari 1 bulan dan sudah memenuhi ekspektasi yang cukup memuaskan dengan infrastruktur yang sederhana dan seadanya namun tetap dapat dibuat tanpa harus menggunakan infrastruktur mewah karena keterbatasan bukan penghalang dalam pembuatan karya setelah harus gagal dalam EOL-112222 dengan ini sebagai komitmen maka saya menghadirkan dukungan jangka panjang (LTS) selama 10 tahun dari 2022 sampai 2032 selama anda masih menjadi pelanggan prioritas pada PR060606NW dan selama saya masih diberikan umur dalam kehidupan.
 
 
 Tahun       | Sosial          | Kecepatan Internet  | Status
