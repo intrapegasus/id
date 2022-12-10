@@ -48,10 +48,9 @@ is_contact: true
 ## Sosial (EOL-112222)
 1. [Pixelfed](https://pixelfed.de/intrapegasus)
 2. [Mastodon](https://masthead.social/@intrapegasus)
-3. [GitHub](https://github.com/intrapegasus)
-4. [Weblate](https://hosted.weblate.org/user/intrapegasus)
-5. [Quora](https://id.quora.com/profile/Intrapegasus)
-6. [Anchor](https://www.listennotes.com/podcasts/zefas-podcast-zefanya-abraham-JZOiK3SMgEG)
+3. [Weblate](https://hosted.weblate.org/user/intrapegasus)
+4. [Quora](https://id.quora.com/profile/Intrapegasus)
+5. [Anchor](https://www.listennotes.com/podcasts/zefas-podcast-zefanya-abraham-JZOiK3SMgEG)
 
 ## Donasi (EOL-112222)
 1. [Monero](xmr.txt)
