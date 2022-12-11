@@ -11,8 +11,6 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Blog"
-   link: "https://id.basyiri.my.id"
  - name: "Resume"
    link: "https://basyiri.my.id/id/resume"
  - name: "Kontak"
