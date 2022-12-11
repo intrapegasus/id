@@ -10,7 +10,7 @@ is_contact: true
 
 ---
 
-## HUB
+## Konektivitas HUB
 
 * [Daftar Kontak Selengkapnya](https://mail.basyiri.my.id)
 
