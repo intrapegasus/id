@@ -8,6 +8,8 @@ is_contact: true
 * [Kebijakan Privasi](https://azhar.basyiri.my.id/p/privasi.html)
 * [Syarat & Ketentuan](https://azhar.basyiri.my.id/p/syarat-dan-ketentuan.html)
 
+---
+
 ## HUB
 
 * [Daftar Kontak Selengkapnya](https://mail.basyiri.my.id)
