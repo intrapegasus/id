@@ -5,30 +5,12 @@ is_contact: true
 
 ## Pengumuman
 
-* [Sangat Rahasia](https://basyiri.my.id/S3CR3T)
 * [Kebijakan Privasi](https://azhar.basyiri.my.id/p/privasi.html)
 * [Syarat & Ketentuan](https://azhar.basyiri.my.id/p/syarat-dan-ketentuan.html)
-* [Menjawab Pertanyaan Anda](https://basyiri.my.id/id/faq)
 
 ## HUB
 
-* Surel 1: [azhar@basyiri.my.id](mailto:azhar@basyiri.my.id)
-
-* Surel 2: [tasya@basyiri.my.id](mailto:tasya@basyiri.my.id)
-
-* Telepon 1: [+62-895-41297-3843](tel:+62-895-41297-3843)
-
-* Telepon 2: [+62-821-2455-0821](tel:+62-821-2455-0821)
-
----
-
-## Alamat Surat
-
-> Prima Harapan Regency L.12/35
->
-> Bekasi, Jawa Barat, 17123
->
-> Indonesia
+* [Daftar Kontak Selengkapnya](https://mail.basyiri.my.id)
 
 ---
 
@@ -39,18 +21,17 @@ is_contact: true
 3. [Twitter](https://basyiri.my.id/twitter)
 4. [YouTube](https://basyiri.my.id/youtube)
 5. [Resolusi (LTS)](resolusi)
-
-## Arsip (2019 - 2021)
-
-* [Halaman Utama - TIM](https://basyiri.my.id/tasya)
-* [Instagram - TIM](https://instagram.com/azharbasyirihvrtono)
+6. [Sangat Rahasia](https://basyiri.my.id/S3CR3T)
+7. [Menjawab Pertanyaan Anda](https://basyiri.my.id/id/faq)
 
 ## Sosial (EOL-112222)
-1. [Pixelfed](https://pixelfed.de/intrapegasus)
-2. [Mastodon](https://masthead.social/@intrapegasus)
-3. [Weblate](https://hosted.weblate.org/user/intrapegasus)
-4. [Quora](https://id.quora.com/profile/Intrapegasus)
-5. [Anchor](https://www.listennotes.com/podcasts/zefas-podcast-zefanya-abraham-JZOiK3SMgEG)
+1  [Halaman Utama - TIM](https://basyiri.my.id/tasya)
+2  [Instagram - TIM](https://instagram.com/azharbasyirihvrtono)
+3. [Pixelfed](https://pixelfed.de/intrapegasus)
+4. [Mastodon](https://masthead.social/@intrapegasus)
+5. [Weblate](https://hosted.weblate.org/user/intrapegasus)
+6. [Quora](https://id.quora.com/profile/Intrapegasus)
+7. [Anchor](https://www.listennotes.com/podcasts/zefas-podcast-zefanya-abraham-JZOiK3SMgEG)
 
 ## Donasi (EOL-112222)
 1. [Monero](xmr.txt)
