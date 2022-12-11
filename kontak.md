@@ -24,14 +24,19 @@ is_contact: true
 6. [Sangat Rahasia](https://basyiri.my.id/S3CR3T)
 7. [Menjawab Pertanyaan Anda](https://basyiri.my.id/id/faq)
 
+---
+
 ## Sosial (EOL-112222)
-1  [Halaman Utama - TIM](https://basyiri.my.id/tasya)
-2  [Instagram - TIM](https://instagram.com/azharbasyirihvrtono)
+
+1  [Halaman Utama](https://basyiri.my.id/tasya)
+2  [Instagram](https://instagram.com/azharbasyirihvrtono)
 3. [Pixelfed](https://pixelfed.de/intrapegasus)
 4. [Mastodon](https://masthead.social/@intrapegasus)
 5. [Weblate](https://hosted.weblate.org/user/intrapegasus)
 6. [Quora](https://id.quora.com/profile/Intrapegasus)
 7. [Anchor](https://www.listennotes.com/podcasts/zefas-podcast-zefanya-abraham-JZOiK3SMgEG)
+
+---
 
 ## Donasi (EOL-112222)
 1. [Monero](xmr.txt)
