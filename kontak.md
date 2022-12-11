@@ -28,8 +28,8 @@ is_contact: true
 
 ## Sosial (EOL-112222)
 
-1  [Halaman Utama](https://basyiri.my.id/tasya)
-2  [Instagram](https://instagram.com/azharbasyirihvrtono)
+1. [Halaman Utama](https://basyiri.my.id/tasya)
+2. [Instagram](https://instagram.com/azharbasyirihvrtono)
 3. [Pixelfed](https://pixelfed.de/intrapegasus)
 4. [Mastodon](https://masthead.social/@intrapegasus)
 5. [Weblate](https://hosted.weblate.org/user/intrapegasus)
